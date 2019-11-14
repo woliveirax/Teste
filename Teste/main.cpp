@@ -7,5 +7,6 @@ int main() {
 
 	a = b;
 
+	printf("%d", &a);
 	return 0;
 }
